@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CatCasino/CatCasino.vcxproj" Id="639a3119-babf-465c-925b-40ae707a002c" />
+</Solution>
